@@ -7,7 +7,7 @@ body {
 
 .accordion-body {
   position: absolute;
-  top: 20%;
+  top: 16%;
   left: 30%;
   background-color: hsl(0, 0%, 100%);
   width: 35%;
@@ -27,6 +27,7 @@ body {
   color: hsl(292, 42%, 14%);
   border-radius: 0.234rem;
   padding: 5px;
+  cursor: pointer;
 }
 
 .label:focus {
