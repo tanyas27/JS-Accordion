@@ -7,7 +7,7 @@ body {
 
 .accordion-body {
   position: absolute;
-  top: 18%;
+  top: 18.5%;
   left: 30%;
   background-color: hsl(0, 0%, 100%);
   width: 35%;
@@ -17,7 +17,7 @@ body {
 
 .accordion-title {
   display: flex;
-  font-size: 1.25em;
+  font-size: 1.55em;
 }
 
 .label {
